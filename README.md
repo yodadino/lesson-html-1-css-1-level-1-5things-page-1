@@ -23,6 +23,10 @@
   3. [ ] google
 
 ### Project details
-  1. Project name:
-  2. Project summary:
+  1. Project name: star wars
+  2. Project summary: 
+    1. This is a website about when Darth Vador turns back to the light 
+      1. When does he come back to the light
+      2. Why does he come back to the light
+      3. What happens after he comes back to the light
   3. Project coordinator:
