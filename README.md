@@ -29,4 +29,4 @@
       1. When does he come back to the light
       2. Why does he come back to the light
       3. What happens after he comes back to the light
-  3. Project coordinator:
+  3. Project coordinator: Sylvester Mobley
